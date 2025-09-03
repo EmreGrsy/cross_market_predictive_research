@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22113454/README.md)
 # Cross-Market Predictive Research: FX, Commodities & Equities
 
 ## Project Overview
@@ -45,7 +44,7 @@ The models identified **strong predictive links between Gold Futures and major F
 ## Visualization
 The chart below shows the **Top 10 Predictive Targets**, ranked by RMSE:
 
-![Top 10 Targets](top10_targets.png)
+![Top 10 Targets](best_performers.pdf)
 
 ---
 
