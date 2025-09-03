@@ -26,6 +26,8 @@ The models identified **strong predictive links between Gold Futures and major F
 
 **Top 10 Targets by Predictive Accuracy (lowest RMSE):**
 
+!(top10_targets.png)
+
 | Rank | Target | RMSE |
 |------|--------|------|
 | 1 | FX_EURUSD – JPX_Gold_Standard_Futures_Close | **0.00989** |
@@ -46,7 +48,7 @@ The chart below shows the **Top 10 Predictive Targets**, ranked by RMSE:
 
 [<img src="bes_performers.pdf" alt="Table of Contents Figure" width="25%">]
 
-![Top 10 Targets](top10_targets.png)
+(top10_targets.png)
 ![ALT TEXT](/best_performers.pdf)
 
 ---
