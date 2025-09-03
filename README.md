@@ -44,6 +44,8 @@ The models identified **strong predictive links between Gold Futures and major F
 ## Visualization
 The chart below shows the **Top 10 Predictive Targets**, ranked by RMSE:
 
+[<img src="bes_performers.pdf" alt="Table of Contents Figure" width="25%">]
+
 ![Top 10 Targets](best_performers.pdf)
 
 ---
